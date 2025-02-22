@@ -1,0 +1,77 @@
+First Name,Last Name,Pronouns,Pronoun Confidence,SET Available,Learning Avg,Structure Avg,Environment Avg,Course
+Leesa,Anzaldo,She/Her,A,WI24,4.43,4.49,4.63,3c
+Ery,Arias-Castro,He/Him,A,SP24,4.4,4.17,4.41,185
+Ioan,Bejenaru,He/Him,A,FA24,4.59,4.37,4.55,142a
+Adam,Bowers,He/Him,A,FA 24,4.06,3.92,4.43,3C
+Alina,Bucur,She/Her,A,SP24,3.98,3.96,4.24,187b
+Bennett,Chow,He/Him,B,WI24,4.75,4.71,4.73,109
+Alex,Cloninger,He/Him,A,FA24,4.5,4.35,4.65,173A
+Lijun,Ding,He/Him,A,FA24,3.56,3.29,4.2,173A
+Ioana,Dumitriu,She/Her,A,WI24,4.33,4.14,4.46,182
+John,Eggers,He/Him,B,FA24,3.9,3.95,4.34,10A
+Patrick,Fitzsimmons,He/Him,B,WI24,4.19,4.25,4.4,194
+Joshua,Frisch,He/Him,B,WI24,2.97,2.68,4.0,180A
+Guershon,Harel,He/Him,A,FA24,4.38,4.1,4.5,102
+Adrian,Ioana,He/Him,A,FA24,4.44,4.35,4.53,20C
+Daniel,Kane,He/Him,A,FA24,4.72,4.57,4.47,96
+Todd,Kemp,He/Him,A,S224,4.89,4.71,4.89,18
+Natalia,Komarova,She/Her,A,SP24,4.29,4.0,4.33,112B
+Melvin,Leok,He/Him,A,SP24,4.27,4.3,4.5,170C
+Frederick,Manners,He/Him,A,FA24,4.89,4.71,4.79,160A
+James,McKernan,He/Him,A,WI24,4.37,4.15,4.47,100B
+Amir,Mohammadi,He/Him,B,FA23,4.27,4.12,4.57,103A
+Jiawang,Nie,He/Him,B,SP24,4.11,4.0,4.37,171B
+Ko,Ohm,She/Her,A,FA24	,4.46,4.38,4.61,20B
+Aaron,Pollack,He/Him,A,FA24,4.23,3.87,4.64,100A
+Cristian,Popescu,He/Him,A,WI24,4.67,3.83,4.58,104B
+David,Quarfoot,He/Him,A,FA24	,4.11,4.22,4.4,2
+Jeffrey,Rabin,He/Him,A,FA24,4.74,4.29,4.72,31AH
+Denise,Rava,She/Her,A,FA24	,4.08,3.95,4.3,11
+Brendon,Rhoades,He/Him,A,WI24,4.14,3.93,4.43,18
+Justin,Roberts,He/Him,B,FA24,4.75,4.75,5.0,191
+Rayan,Saab,He/Him,A,WI24	,4.71,4.68,4.76,173B
+Steven,Sam,He/Him,A,FA24,4.73,4.75,4.75,188
+Brandon,Seward,He/Him,A,FA24,4.58,4.48,4.63,18
+Luca,Spolaor,He/Him,A,SP24	,4.8,4.79,4.86,140C
+Laura,Stevens,She/Her,A,SP24	,5.0,5.0,5.0,121B
+Andrew,Suk,He/Him,A,FA24,4.53,4.54,4.51,103A
+Glenn,Tesler,He/Him,B,WI24	,4.63,4.53,4.59,184
+Xiaochuan,Tian,She/Her,A,WI24	,4.88,4.75,4.69,175
+Jacques,Verstraete,He/Him,A,FA24	,4.69,4.88,4.81,158
+Lutz,Warnke,He/Him,A,FA24	,4.44,4.31,4.23,154
+Danna,Zhang,She/Her,A,SP24,4.49,4.35,4.58,181
+Tianyi,Zheng,She/Her,B,FA24,4.3,4.07,4.57,180C
+Andrej,Zlatos,He/Him,A,WI24,4.35,4.63,4.89,148
+Frances,Hammock,She/Her,A,FA24,3.72,3.55,4.22,3B
+Bing,Cheng,He/Him,A,FA24,3.29,3.02,4.11,3B
+Jon,Aycock,He/Him,B,FA24,4.03,3.95,4.47,4C
+Quang,Bach,He/Him,B,FA24	,4.52,4.46,4.47,20E 
+Jor-el,Briones,He/Him,B,FA24,4.12,4.04,3.92,10A
+Dehao,Dai,He/Him,B,FA24,3.22,3.3,4.07,10A 
+Patrick,Hiatt,He/Him,B,FA24,3.99,3.98,4.42,10A
+Liam,Hardiman,He/Him,B,FA24,3.49,3.57,4.25,10A
+Amit,Ophir,He/Him,B,FA24	,4.39,4.03,4.33,102
+Lei,Huang,She/Her,B,FA24,3.27,3.28,4.02,10B
+Yousaf,Habib,He/Him,B,FA24,4.15,3.96,4.26,10C
+Ching,Ho,He/Him,B,FA24,4.37,4.31,4.58,10C
+Mohsen,Aliabadi,He/Him,B,FA24,3.87,3.68,4.13,11
+Yizhen,Zhao,He/Him,B,FA24,3.39,3.35,4.27,20A
+Xie,Wu,He/Him,B,FA24,3.9,3.78,4.32,20B 
+Raymond,Chou,He/Him,B,FA24,4.7,4.58,4.73,20B
+Wei,Yin,He/Him,B,FA24,4.44,4.33,4.33,103A
+Itai,Maimon,He/Him,B,FA24,4.04,3.85,4.24,20C
+Dixit,Rishabh,He/Him,B,FA24,3.33,2.79,3.82,20D
+John,Treuer,He/Him,B,FA24,4.42,4.29,4.46,20E
+Gil,Goffer,She/Her,B,FA24,4.29,4.36,4.57,103A
+William,Wesley,He/Him,B,FA24,4.6,4.58,4.56,104A 
+Christian,Klevdal,He/Him,B,FA24,4.72,4.63,4.81,105
+Kunnawalkam,Elayavalli,He/Him,B,FA24,3.72,3.32,3.53,109
+Zhouli,Wu,He/Him,B,FA24,4.47,4.5,4.43,109
+Yunze,Lu,He/Him,B,FA24,4.45,4.29,4.41,109
+Hongyi,Sheng,He/Him,B,FA24,3.67,3.29,4.47,109
+Mohandas,Pillai,He/Him,B,FA24,4.43,4.33,4.68,130
+Pranav,Upadrashta,He/Him,B,FA24,4.35,4.4,4.64,142A
+Jacques,Verstraete,He/Him,B,FA24,4.69,4.88,4.81,158
+Panchali,Nag,She/Her,B,FA24,3.92,3.86,4.29,170A
+Christopher,Gartland,He/Him,B,FA24,4.01,3.69,4.39,180A
+Siddharth,Vishwanath,He/Him,B,FA24,3.82,3.75,4.19,183
